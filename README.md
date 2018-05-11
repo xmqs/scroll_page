@@ -1,4 +1,4 @@
-# dzkan
+# 在vue中使用MeScroll插件实现切换page效果
 
 > 结合meScroll分页
 
